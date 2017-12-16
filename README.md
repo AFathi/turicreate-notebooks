@@ -14,7 +14,7 @@ Also, in this **README** file, I will explain how to setup `Python`, `pip`, and 
 In the [Turi Create](https://github.com/apple/turicreate) official repository, they describe it as a library that:
 >simplifies the development of custom machine learning models. You don't have to be a machine learning expert to add recommendations, object detection, image classification, image similarity or activity classification to your app.
 
-From a point of view of an iOS developer with some background in machine learning, I'd describe it as a library that takes away all the required complex mathematical computation to create a machine learning model.
+From a point of view of an iOS developer with some background in machine learning, I'd describe it as a library that takes away most of the required complex mathematical computation to create a machine learning model and does it for you.
 
 A machine learning model created using **Turi Create** can easily be exported as a [Core ML](https://developer.apple.com/documentation/coreml) model and be implemented into iOS, macOS, tvOS or watchOS applications.
 
