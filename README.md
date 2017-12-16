@@ -19,7 +19,7 @@ From a point of view of an iOS developer with some background in machine learnin
 The machine learning model created using **Turi Create** can easily be exported as a [Core ML](#https://developer.apple.com/documentation/coreml) model and be implemented into iOS, macOS, tvOS or watchOS applications.
 
 ## Why use Turi Create?
-In the past few years, taking machine learning approaches to solve problems and perform some complex tasks have been increasing. Machine learning enable us to use big data rather than writing millions of lines of code to achieve one simple task, such as image classification.
+In the past few years, taking machine learning approaches to solve problems and perform some complex tasks have been increasing. Machine learning enable us to use big data rather than writing millions of lines of code to achieve tasks, such as image classification.
 
 Machine learning still has a long way ahead to improve and perform better; however, it's currently good enough for production-level applications. 
 
