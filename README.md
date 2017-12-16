@@ -16,7 +16,15 @@ In the [Turi Create](https://github.com/apple/turicreate) official repository, t
 
 From a point of view of an iOS developer with some background in machine learning, I'd describe it as a library that takes away most of the required complex mathematical computation to create a machine learning model and does it for you.
 
-A machine learning model created using **Turi Create** can easily be exported as a [Core ML](https://developer.apple.com/documentation/coreml) model and be implemented into iOS, macOS, tvOS or watchOS applications.
+Some machine learning models created using **Turi Create** can easily be exported as a [Core ML](https://developer.apple.com/documentation/coreml) model and be implemented into iOS, macOS, tvOS or watchOS applications.
+
+Models that easily allow **Core ML** exporting include:
+- Activity Classifiers
+- Image Classifier
+- Image Similarity
+- Object Detection
+
+**Note**:- Turi Create is open source. Which means we can create an `export_coreml` method for any model we want by editing the source code. I'll demonstrate how to do that in this repository ☺️!
 
 ## Why use Turi Create?
 In the past few years, the use of machine learning approaches to solve problems and perform complex tasks have been increasing. Machine learning enable us to use big data rather than writing millions of lines of code to perform complex tasks, such as image classification.
