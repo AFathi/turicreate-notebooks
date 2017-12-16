@@ -25,4 +25,8 @@ Machine learning still has a long way ahead to improve and perform better; howev
 
 Before **Turi Create**, it would be very challenging and time consuming for software developers to create a machine learning model and run it on mobile devices. In order to run a machine learning model on an iPhone or iPad, you would have to optimize your model, which is a very complicated procedure. 
 
-However, thanks to Apple, now we have both **Turi Create** and **CoreML**......[to be continued]
+However, thanks to Apple, now we have both **Turi Create** and **CoreML** that enable us to easily create machine learning models for Apple devices. Turi Create provides us with essential machine learning algorithms, such as k-nearest neighbor, to integrate it with other advanced algorithms in order to create a production-ready machine learning model.
+
+In this repository, I will be demonstrating how to create useful machine learning models that may many uses in your existing and future applications!
+
+## Requirements
