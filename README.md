@@ -20,7 +20,7 @@ Some machine learning models created using **Turi Create** can easily be exporte
 
 Models that easily allow **Core ML** exporting include:
 - Activity Classifiers
-- Image Classifier
+- Image Classifiers
 - Image Similarity
 - Object Detection
 
