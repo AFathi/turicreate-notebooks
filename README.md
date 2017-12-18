@@ -7,8 +7,12 @@ Also, in this **README** file, I will explain how to setup `Python`, `pip`, and 
 | Table of Contents  |  Description       |
 | ------------------ | ------------------ |
 | [What is Turi Create?](#) |  Describes what **Turi Create** is and what developers can use it for.|
+| [Why use Turi Create?](#) | Describes why **Turi Create** is useful for developers. |
 | [Requirements](#) | Describes the machine and software requirements to use **Turi Create** and run the **Jupyter Notebook** examples.|
-| [Install & Setup](#) | Explains the installation and setup process in details |
+| [Install & Setup](#) | Explains the installation and setup process in details. |
+| [Contributions](#) | Describes how you can contribute to this project. |
+| [Turi Create Docs](#) | Redirects you to the official **Turi Create** documentations. |
+| [License](#) | Describes the license of this project. |
 
 ## What is Turi Create?
 In the [Turi Create](https://github.com/apple/turicreate) official repository, they describe it as a library that:
