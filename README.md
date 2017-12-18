@@ -19,10 +19,8 @@ From a point of view of an iOS developer with some background in machine learnin
 Some machine learning models created using **Turi Create** can easily be exported as a [Core ML](https://developer.apple.com/documentation/coreml) model and be implemented into iOS, macOS, tvOS or watchOS applications.
 
 Models that easily allow **Core ML** exporting include:
-- Activity Classifiers
-- Image Classifiers
-- Image Similarity
-- Object Detection
+- Image Classification models
+- Object Detection models
 
 **Note**:- Turi Create is open source. Which means we can create an `export_coreml` method for any model we want by editing the source code. I'll demonstrate how to do that in this repository ☺️!
 
