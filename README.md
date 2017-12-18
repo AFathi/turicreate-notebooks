@@ -8,7 +8,7 @@ Also, in this **README** file, I will explain how to setup `Python`, `pip`, and 
 | ------------------ | ------------------ |
 | [What is Turi Create?](#) |  Describes what **Turi Create** is and what developers can use it for.|
 | [Why use Turi Create?](#) | Describes why **Turi Create** is useful for developers. |
-| [Requirements](#) | Describes the machine and software requirements to use **Turi Create** and run the **Jupyter Notebook** examples.|
+| [Requirements](#) | Describes the machine and software requirements needed to use **Turi Create** and run the **Jupyter Notebook** examples.|
 | [Install & Setup](#) | Explains the installation and setup process in details. |
 | [Contributions](#) | Describes how you can contribute to this project. |
 | [Turi Create Docs](#) | Redirects you to the official **Turi Create** documentations. |
