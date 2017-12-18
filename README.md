@@ -25,7 +25,7 @@ Models that easily allow **Core ML** exporting include:
 ## Why use Turi Create?
 In the past few years, the use of machine learning approaches to solve problems and perform complex tasks have been increasing. Machine learning enable us to use big data to perform complex tasks, such as image classification.
 
-Before **Turi Create**, it would be very challenging and time consuming for software developers to create a machine learning model and run it on mobile devices. In order to run a machine learning model on an iPhone or iPad, you would have to optimize your model, which is a very complicated procedure. 
+Before **Turi Create**, it would be very challenging and time consuming for software developers to create a machine learning model and run it on mobile devices. In order to run a machine learning model on a mobile device, you would have to optimize your model and make it work on devices that doesn't have the hardware capabilities, such as the iPhone.
 
 However, thanks to GraphLab and Apple, now we have both **Turi Create** and **CoreML** that enable us to easily create machine learning models for Apple devices. Turi Create provides us with essential machine learning algorithms, such as k-nearest neighbor, to integrate it with other advanced deep learning algorithms, such as Residual Networks (ResNet), in order to create a production-ready machine learning trained model.
 
