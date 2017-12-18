@@ -23,7 +23,7 @@ Models that easily allow **Core ML** exporting include:
 - Object Detection models
 
 ## Why use Turi Create?
-In the past few years, the use of machine learning approaches to solve problems and perform complex tasks have been increasing. Machine learning enable us to use big data rather than writing millions of lines of code to perform complex tasks, such as image classification.
+In the past few years, the use of machine learning approaches to solve problems and perform complex tasks have been increasing. Machine learning enable us to use big data to perform complex tasks, such as image classification.
 
 Before **Turi Create**, it would be very challenging and time consuming for software developers to create a machine learning model and run it on mobile devices. In order to run a machine learning model on an iPhone or iPad, you would have to optimize your model, which is a very complicated procedure. 
 
