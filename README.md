@@ -22,8 +22,6 @@ Models that easily allow **Core ML** exporting include:
 - Image Classification models
 - Object Detection models
 
-**Note**:- Turi Create is open source. Which means we can create an `export_coreml` method for any model we want by editing the source code. I'll demonstrate how to do that in this repository ☺️!
-
 ## Why use Turi Create?
 In the past few years, the use of machine learning approaches to solve problems and perform complex tasks have been increasing. Machine learning enable us to use big data rather than writing millions of lines of code to perform complex tasks, such as image classification.
 
