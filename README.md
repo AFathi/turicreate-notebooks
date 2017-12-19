@@ -44,6 +44,21 @@ In order to install, setup and try out the example notebooks you will need the f
 ## Install & Setup
 After making sure our machine has **x86_64** architecture we will do the following:
 
-1. Download [Anaconda, Python 2.7 version](https://www.anaconda.com/download/)
+1. Download & install [Anaconda, Python 2.7 version](https://www.anaconda.com/download/)
+2. After done installing Anaconda, go to your computer's terminal and create an environment to install **Turi Create**, by doing the following:
+```
+$ conda create -n turienv
+```
+3. Activate your new enviornment:
+```
+source activate turienv
+```
+4. Install **Turi Create**:
+```
+pip install -U turicreate
+```
+5. Restart _Anaconda-Navigator_ then launch Jupyter Notebook
 
+6. Clone this repository and redirect to it through Jupyter Notebook!
 
+## Contributions
