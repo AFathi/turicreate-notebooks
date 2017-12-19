@@ -67,6 +67,6 @@ If you have an idea for a new **Turi Create** example and want to add it to this
 Also, feel free to create an issue if you have any suggestions or need any help ☺️
 
 ## License
-This repository is published under the MIT license. Check [LICENCE](LICENSE) for more information.
+This repository is published under the MIT license. Check [LICENSE](LICENSE) for more information.
 
 Note:- **Turi Create** is under a BSD-3-Clause license. Check the official repository [LICENSE](https://github.com/apple/turicreate/blob/master/LICENSE.md) for more information.
