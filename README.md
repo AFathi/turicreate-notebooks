@@ -40,6 +40,7 @@ In order to install, setup and try out the example notebooks you will need the f
 - A computer with a 64-bit processor (**x86_64** architecture)
 - Anaconda, Python 2.7 version. [Download here](https://www.anaconda.com/download/)
 
+Note:- **Turi Create** currently only supports Python 2.7.
 ## Install & Setup
 After making sure our machine has **x86_64** architecture we will do the following:
 
