@@ -11,7 +11,7 @@ Also, in this **README** file, I will explain how to setup `Python`, `pip`, and 
 | [Requirements](#) | Describes the machine and software requirements needed to use **Turi Create** and run the **Jupyter Notebook** examples.|
 | [Install & Setup](#) | Explains the installation and setup process in details. |
 | [Contributions](#) | Describes how you can contribute to this project. |
-| [Turi Create Docs](#) | Redirects you to the official **Turi Create** documentations. |
+| [Turi Create Docs](https://apple.github.io/turicreate/docs/api) | Redirects you to the official **Turi Create** documentations. |
 | [License](#) | Describes the license of this project. |
 
 ## What is Turi Create?
@@ -36,3 +36,13 @@ However, thanks to GraphLab and Apple, now we have both **Turi Create** and **Co
 In this repository, I will be demonstrating how to create useful machine learning models that may have many uses in your existing and future applications!
 
 ## Requirements
+In order to install, setup and try out the example notebooks you will need the following:
+- A computer with a 64-bit processor (**x86_64** architecture)
+- Anaconda, Python 2.7 version. [Download here](https://www.anaconda.com/download/)
+
+## Install & Setup
+After making sure our machine has **x86_64** architecture we will do the following:
+
+1. Download [Anaconda, Python 2.7 version](https://www.anaconda.com/download/)
+
+
