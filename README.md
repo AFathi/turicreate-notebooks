@@ -38,7 +38,7 @@ In this repository, I will be demonstrating how to create useful machine learnin
 ## Requirements
 In order to install, setup and try out the example notebooks you will need the following:
 - A computer with a 64-bit processor (**x86_64** architecture)
-- Anaconda, Python 2.7 version. [Download here](https://www.anaconda.com/download/)
+- Anaconda, Python 2.7 version: [Download here](https://www.anaconda.com/download/)
 
 **Note**:- Currently, **Turi Create** only supports Python 2.7.
 ## Install & Setup
