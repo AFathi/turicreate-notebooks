@@ -61,6 +61,8 @@ pip install -U turicreate
 
 6. Clone this repository and redirect to it through Jupyter Notebook!
 
+Check [How to run Python Notebooks?](https://github.com/AFathi/turicreate-notebooks/tree/master/notebooks#how-to-run-python-notebooks) and [How to run Python?](https://github.com/AFathi/turicreate-notebooks/tree/master/raw_python#how-to-run-python) for more details on testing the examples on your machine.
+
 ## Contributions
 If you have an idea for a new **Turi Create** example and want to add it to this repository, feel free to fork the project and create a pull request!
 
