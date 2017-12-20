@@ -19,5 +19,6 @@ After following the [instructions to download](https://github.com/AFathi/turicre
 
 4. Run each cell consecutively
 
+![Run Notebook](http://www.ahmedbekhit.com/projects/python/run-example.gif)
 
 That's it, you're all set ☺️!
